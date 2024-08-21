@@ -1,1 +1,2 @@
-Testing Test3
+Testing Test3.
+Updated post 2nd commit
